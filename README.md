@@ -1,4 +1,4 @@
-# BataBit_Proyecto
+# Proyecto BataBit 
 
 ## Caracteristias del proyecto:
 
