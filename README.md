@@ -1,4 +1,4 @@
-# Proyecto BataBit 
+# Proyecto BatataBit 
 
 ## Caracteristias del proyecto:
 
