@@ -1,9 +1,4 @@
 # Proyecto BatataBit 
 
-## Caracteristias del proyecto:
-
-- Responsive
-
-- Diseño Limpio
-
+## https://carlosj09.github.io/BatataBit_Proyecto.github.io/
 
